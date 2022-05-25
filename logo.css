@@ -1,0 +1,51 @@
+
+.png{
+  opacity: 0;
+  right: 300px;
+}   
+body{
+  cursor: pointer;
+  background-color: rgb(14, 108, 216);
+  overflow: hidden;
+  color: rgb(255, 147, 7);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.tuz{
+  position: absolute;
+  top: 200px;
+  left: 0px;
+  opacity: 1;
+  
+}
+#icon{
+  position: absolute;
+  top: 20px;
+  left: 100px;
+}
+.button{
+  top: 0px;
+  position: absolute;
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+.text{
+  opacity: 0;
+  position: absolute;
+  top: 360px;
+  left: 670px;
+  width: 700px;
+  font-size: 30px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+}
+.welcome{
+  opacity: 0;
+  width: 700px;
+  position: absolute;
+  top: 250px;
+  left: 700px;
+  font-size: 50px;
+  font-weight: bold;
+}
